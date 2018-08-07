@@ -1,0 +1,6 @@
+name: agile-methodologies
+title: Agile Methodologies Guide
+version: 0.1
+start_page: ROOT:introduction.adoc
+nav:
+- modules/ROOT/nav.adoc

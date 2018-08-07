@@ -1,0 +1,7 @@
+* xref:introduction.adoc[Introduction and context]
+* xref:principles.adoc[General principles of Agile development]
+* xref:public-admin.adoc[Agile and Public Administration]
+* xref:policy.adoc[Barcelona City Council Agile Policy]
+* xref:implementation.adoc[Implementation of the Agile Policy to ICT projects and services]
+* xref:references.adoc[Further information. References]
+* xref:https://raw.githubusercontent.com/AjuntamentdeBarcelona/guides-glossary/master/modules/ROOT/pages/glossary.adoc[Glossary]
