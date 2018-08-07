@@ -1,0 +1,11 @@
+= Introduction and Context
+
+This is document supports the Barcelona City Council Technology Code of Practice, and provides a practical explanation of the Agile transformation concept.
+It expands on the principles guiding the new leadership at the Municipal Institute of Information Technology (IMI) in terms of technology and innovation: interoperability, agility, reuse, ethics, and open knowledge and technology.
+These principles and practices stem from the City Council Agile Digital Transformation Plan of September 2017.
+
+It seeks to guide and contribute to implementation by the IMI – in conjunction with the city’s leaders and authorities – of the strategic aim of Barcelona City Council to undertake digital service projects using Agile methodologies.
+Together with the principle of technological sovereignty and responsible data management, these agile methodologies make up the main aspects of the medium-term outlook on agile digital transformation in the city of Barcelona.
+
+The goal of this document is therefore to provide managers in municipal bodies and the IMI with a basic understanding of agile methods and demonstrate how the agile life-cycle differs from traditional approaches; to explain the IMI agile method and how it will be implemented by integrating it into the framework for new projects and for maintenance of digital services that already exist; and to provide guidelines for managing development projects and maintaining services based on agile methodologies.
+Generally-speaking, it aims to help encourage and manage this cultural change at the IMI and the units of Barcelona city from a perspective of agile digital transformation.
