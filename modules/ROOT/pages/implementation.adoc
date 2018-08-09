@@ -1,0 +1,195 @@
+= Implementation of the Agile Policy to ICT Projects and Services
+
+In order to apply the guidelines described in the previous section, the IMI has developed an agile methodology based on scrum and adapted this to suit its role as ICT Manager for Barcelona City Council.
+
+== Basic and Structural Criteria
+
+The IMI will undertake projects in line with the organisational structure of Barcelona City Council.
+
+Although it is viable to combine agile development and projects with traditional methodologies (the “bimodal” approach), it is more difficult to manage development units with different life-cycles and with other external roles.
+For this reason, it is recommended that management of projects for units of the City Council (departments, sectors and districts) be undertaken in an agile or traditional manner but not in a manner that combines both models.
+
+Furthermore, in a municipal unit where all developments are undertaken in an agile manner, it can be difficult to absorb peaks in demand without oversizing agile team capacity or overly extending response times.
+In this case, it may be advisable to contract traditional projects in parallel.
+
+== Scrum@IMI Methodology
+
+The projects defined as agile will follow the agile development methodology for IMI applications, called Scrum@IMI.
+This is based on the scrum working framework and takes engineering practices from other models into account, such as DevOps.
+
+This methodology will be supported by the use of an ALM platform (Application Lifecycle Management) with tools that include the following features, among others:
+
+* Development planning (releases, sprints, work packages, defects, etc.).
+* Documentation, code and binary repositories.
+* Requirement and test management.
+* Unit and function test automation.
+* Ongoing integration and rollout.
+* Code quality control.
+
+Their use by a successful bidder will be compulsory, without leading to an increased licencing cost.
+
+All the documentation generated internally during the course of development will be managed using the tools defined at the start of the project, preferably in wiki format.
+
+The main characteristics foreseen for this methodology are described according to their life-cycle in the following sections.
+
+The usual events (activities and milestones) for the Scrum@IMI methodology include the following steps:
+
+[cols=",",options="header",]
+|===
+a| *Event* | *Goals*
+a| *Sprint*
+ | Development cycle (lasting from two to four weeks) in which a part of the system is delivered (including all sub-products, such as documentation and tests).
+The customer may choose to publish the increment delivered by the supplier or not.
+a| *Sprint planning*
+ | The product owner and the development team decide which part of the product will be produced during the sprint.
+a|*Daily Meeting*
+ | The development team monitor the sprint and the pertinent corrections.
+ In the event of an overrun, the product owner and the scrum master are notified.
+a| *Sprint review*
+ | The scrum team and invited external players examine the result from the sprint and review the plan for the following sprints.
+a| *Sprint retrospective*
+ | The scrum team examines its own performance and plans specific improvements.
+|===
+
+== Roles and Responsibilities
+
+Implementation of scrum roles at the IMI fully respects the standard objective and responsibilities for the roles while adapting them to the IMI context, which provides complex ICT management services for Barcelona City Council.
+
+The main roles are as follows:
+
+* *Product owner (City Council)*
+
+* *Proxy product owner (IMI)*
+
+* *Scrum master (IMI or supplier)*
+
+* *Development team (supplier)*
+
+*PRODUCT OWNER (CITY COUNCIL)*
+
+The product owner (PO) is the role seeking to maximise the value delivered to users.
+The best examples of this role are those in which the PO is close to where the “business” decisions are taken, which is why this role is given to a certain key individual in the departments and management structure of the City Council.
+This position will provide that individual with transparent and frequent information on the status of all developments for the purpose of oversight and informed decision-making.
+
+The City Council PO typically has a high workload and many partners with which to work.
+This means they may spend little time on usual PO activities, such as managing and detailing the product backlog or discussing issues with the development team.
+Hence, the POs will often have an assistant at the IMI, called proxy product owner.
+Under no circumstances should this detract transparency from the activities undertaken by the team or decision-making capabilities.
+
+*PROXY PRODUCT OWNER (IMI)*
+
+The proxy product owner (PPO) is not a standard scrum role but is common in situations where it is difficult to find a PO with both vision and decision-making capabilities from a business perspective or for reasons of proximity to the development team and availability for structuring and prioritising the backlog in a detailed manner.
+In the context of the City Council and the IMI, the IMI will often take on this role.
+
+*DEVELOPMENT TEAM (SUPPLIER)*
+Made up by a group of three members (preferably with multidisciplinary profiles), the development team carries out all the necessary activities related to project development.
+Its main objective is to achieve ongoing improvement.
+To do so, the team interacts with all the necessary IMI roles, of which the PO and PPO will be the main interlocutors regarding the work needing to be done, and the scrum master will act as methodological and organisational guide within the IMI.
+
+*SCRUM MASTER (IMI/SUPPLIER)*
+
+The scrum master (SM) seeks to teach scrum and use the working framework to improve value and team development effectiveness.
+Within an IMI context, this is achieved by acting as methodology guide; monitoring and controlling team performance or, if necessary, providing individual training to certain team members.
+In addition, the SM will help the team integrate into the IMI and City Council environment, especially with any cross-cutting departments.
+
+
+== Activities
+
+Below is a description of the objectives and content of the main activities in the IMI agile methodology.
+If more detailed information is required on any of these activities, please consult the documentation provided via the IMI’s Agile Space.
+
+=== Activity: Delivery planning
+The task of activity planning is undertaken before building the product but can be re-planned during the course of this activity when deemed necessary.
+Its goal is to update and control the planning of sprints and deliveries in a way that is agreed by the whole scrum team, with leadership from the product owner and the proxy product owner.
+The result of this activity is the development plan, which is based on the proposal from the successful bidder in its offer and will need to meet the requirements detailed in the specifications.
+
+
+=== Activity: Backlog refinement
+
+Backlog refinement is carried out during project development and is led by the roles of Product Owner and Proxy Product Owner.
+Its purpose is to conduct a functional and technical analysis of the work packages in the product backlog.
+
+A high level of interaction is expected among the users and other roles at the IMI during this activity.
+Building static models or dynamic prototypes that include the most important features of the system is recommended, so the user can validate them.
+
+=== Activity: Sprint
+
+The purpose of this activity is to build the system increment, represented by the sprint backlog, corresponding to the business and technical priorities agreed upon by the Product Owner and Proxy Product Owner with the development team.
+At the end of the sprint, the PO and PPO are responsible for formally validating and accepting the work packages making up the increment.
+The scrum manager will always assist in this task.
+
+Failure by the successful bidder to deliver the increments produced at the end of the sprint will lead to the application of penalties by the IMI, as detailed in the ‘Penalties’ clause of the Administrative Specifications.
+
+=== Activity: Transition
+
+The purpose of this activity is to deliver and implement the work packages determined by the Product Owner in line with the needs of users and other players at the IMI, such as the operations and user assistance service groups.
+These deliveries may be regular or on demand during the sprint (e.g. to resolve an urgent incident) or may be made at the end of the sprint.
+
+Acceptance of the transition activity will require validation and approval by the Proxy Product Owner, the IMI.
+In the event of significant version changes, formal acceptance of the project will take place at a meeting of the project steering committee.
+Failing to achieve the objectives of this activity will halt the project.
+
+=== Activity: Operation
+
+The purpose of this activity (which will be of interest to the successful bidder if the scope of the contracted services includes user support) is to provide Level 2 and 3 support (ITIL terms) to the User Support Service group (USS) and the Operations Management.
+
+The Proxy Product Owner will act as “service manager” when it must prioritise the incidents identified and raised by the USS and Operations groups, as well as monitor these situations.
+The User Support department describes the protocols and service level agreements (SLA) that determine the provision of this service.
+
+== Working Teams and their Management
+
+The scrum model can be implemented with teams contracted in one of two ways: teams for the development of new projects; and application maintenance teams (AM).
+Below are the differences between them in terms of agile methodologies.
+
+Multidisciplinary teams should include the skills for undertaking the following activities:
+
+* Designing and building a digital service.
+* Operating and maintaining a digital service.
+
+The skills needed will change during the life-cycle of the service and support may be received from additional roles.
+
+The entire team, but especially the designers, user researchers and developers, should work together to design, build, test and deliver the product.
+
+
+=== Teams for new projects
+
+Teams for new projects should be contracted once the scope of a service has been defined, before starting development.
+Definition of the contract requires a prior conceptualisation of the desired system, which will be jointly developed by the PO at the City Council and the PPO at the IMI.
+This conceptualisation should include the creation of the following elements:
+
+* An initial backlog defining the scope of the development in terms or work items or packages.
+
+* A delivery plan identifying the deliveries that will be made and which sprints form part of each one.
+
+=== Application Maintenance teams (AM)
+
+Application maintenance teams (AM) will be contracted a priori and will receive various types of request (corrective, evolutive and perfective), which will be added to the backlog.
+Urgent requests will be resolved as soon as possible, in line with the SLA targets.
+All other requests will be planned so they can be dealt with in sprints, probably shorter in duration (e.g. one week) because the packages will tend to be smaller and more independent.
+
+=== Coexistence of project teams and AM teams
+
+The coexistence of Scrum teams for developing new products and Scrum teams maintaining those products will have various effects depending on the level of freedom in the contracts with the suppliers and the most suitable option according to the Proxy Product Owner and the Scrum Master.
+The options are as follows (from most to least suitable):
+
+* The product team includes members from the AM team on a permanent basis in order to work together on the same applications.
+
+* The AM team has an allocated time frame for working with the product team and preparing transferral of the application once delivered to the IMI.
+
+* The AM team does not have an allocated time frame for work during development of the application but does have the frequent increments and the “facts” for preparing the transferral, and may also occasionally take part in the review of sprints.
+
+== Project execution
+
+Agile projects managed by the IMI must be executed according to the following principles, as reflected in the corresponding contract with suppliers:
+
+. The agile recommendations and methodological guidelines from the IMI as PPO will be followed, as presented in the contract specifications and in the Agile Space of the IMI, as well as any other indications that may be applicable and notified by the Scrum Master, who nonetheless will respect team self-management as a general principle.
+
+. At the end of each sprint, an agreed deliverable or product increment (software increment) must be available, which will meet the minimum quality requirements defined in the IMI Agile Space.
+If it is not possible to deliver all the content that is planned, quality will take priority over quantity.
+
+. Transparency will be required with the Scrum Master (and potentially the PPO) with regard to any possible internal team problems, as well as any external impediments, in order to seek together the best solutions to any structural or individual development problems.
+
+. Suppliers will use cooperative tools, as well as the baseline methodological rules that favour team interoperability, such as the language, structure and level of detail in the software documentation and other supporting documents.
+
+. The team responsible for Levels 2 and 3 of incident management will need to have minimum knowledge of the systems and work with the IMI as closely as possible.
+In the future and depending on the ability to automate rollout of the platform used, it is foreseen that teams will be able to roll out their systems autonomously, in the preproduction and production environments.
