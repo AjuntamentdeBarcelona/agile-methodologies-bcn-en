@@ -1,0 +1,43 @@
+= Agile and Public Administration
+
+== Agile Practice in Public Administration
+
+The uptake of agile methods has been very slow in the public sector considering that the Agile Manifesto was drafted in 2001.
+Nonetheless, several cases involving the implementation of agile methodologies have been documented.
+These include Finland (a software development project for managing driving licences) and, closer to home, Andalusia (with two projects by the Ministry of Culture and Sport – eBOJA and TOPOS).
+The first was a development project for a system for using the official regional gazette and the second was an infrastructure project for the management of the regional ministry’s systems.
+In the United States, the healthcare.gov website was redesigned using this methodology and the Defence Department has recognised the agile methodology and its instructions for the procurement of systems (Instruction 5000.2 of 2015) that support it.
+The UK Driver and Vehicle Standards Agency has successfully implemented an MOT management system with agile methodologies and short-term contracts.
+
+In Spain, Catalonia has also conducted a pilot scheme applying scrum to a real project at the IMI to identify the implications from use of this “Agile Framework” and, above all, to reveal the current flaws in terms of both knowledge and infrastructure.
+
+The conclusions from these projects indicate that implementation of this methodology has been successful but challenging (in general, and also regarding specific issues) for the public entities responsible for the projects.
+This approach allowed the teams to draw up an initial project plan that would guide the project and also correct the course taken based on the results.
+It also offers relevant and useful information on project status at all times, both for the team and for those responsible for management and supervision.
+It can be seen as a learning process in which the teams of users and developers improve their skills over time.
+In addition, this methodology converts estimation and planning efforts into an ongoing and participatory process that involves the whole team, rather than being a single stage at the start of the project, which is the case in other traditional methodologies such as the cascade method.
+
+More generally-speaking, various autho-rities are in the process of implementing these methodologies, such as those in the United Kingdomo (_https://www.gov.uk/service-manual/agile-delivery_), New York (_http://playbook.cityofnewyork.us/_) and San Francisco (_http://digitalservices.sfgov.org_), for example, at the Human Services Agency and the Department of Community Housing and Development).
+These initiatives base the delivery of innovative digital services that are cheaper and more user-focused on agile methodologies from the outset.
+
+= Important Considerations
+
+As stated previously in the section entitled “General Principles of Agile Development”, agile methods have various consequences and pose specific implementation challenges in the development of digital services for public administration.
+
+As regards the organisation of projects, all the agents involved in the project should agree on which method has to be used, the definition and allocation of duties or roles, especially within the “customer” department or unit (usually the project owner), the entity managing the contract (at Barcelona City Council, this will usually be the IMI) and the supplier, and how these roles should be undertaken.
+This choice of methodology and definition of roles is more or less difficult depending on the organisational complexity of the public authority in question and the integration of any new services with existing systems or platforms and other ongoing projects.
+Public authorities have many systems and services already in place, meaning that co-existence with traditional projects can be complicated.
+
+Furthermore, it will be important to have access to stable project teams from both the customer/user and the developer.
+Technical solvency in terms of knowledge about agile methods and knowledge management is, again, an essential aspect for guaranteeing the success of projects in the short, medium and long term.
+Furthermore, when applying the scrum methodology, agile teams must coordinate with the teams working on existing or cross- departmental projects within the public authorities.
+
+
+It will also be essential to guarantee the time spent by “customer/user” teams (personnel from the units and entities of the public authorities) during the evolution and development of the project: it is not simply a question of specifying a series of functionalities and awaiting delivery.
+The agile methodology requires more intensive communication or interaction to be encouraged between user and developer in order to reach the objectives for each iteration.
+With Agile, user departments are actively involved throughout the process and developers have a greater presence in the daily lives of those users in order to build a product vision and user stories, leading to feedback on each iteration.
+
+One of the most relevant aspects for a public authority is the process and obligations with regard to the procurement of services, which must meet public procurement regulations that are not necessarily well-suited to this type of methodology.
+Given the characteristics of the above-mentioned agile methodologies, increased flexibility must be sought when contracting agile technology services (e.g. by dividing the project into lots or activities, clearly specifying the methodology to be used and the tasks allocated to each party, and being more flexible in terms of the final specifications and the delivery and acceptance of each stage/activity or iteration) and when overseeing contract performance once awarded.
+
+In conclusion, it is important to recognise the need to work on a change of culture within public authorities as well as on agile transformation, because that change usually comes more slowly and with greater difficulty than in the private sector.
