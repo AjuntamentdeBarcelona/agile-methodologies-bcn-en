@@ -1,4 +1,14 @@
 = General Principles of Agile Development
+:experimental:
+:icons: font
+:page-partial:
+:source-highlighter: highlightjs
+
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+
+include::{partialsdir}/README.adoc[tag=metadata]
 
 == Concepts and Definitions
 
@@ -58,7 +68,7 @@ For each iteration, the development team essentially carries out the same activi
 The image below shows an example of the life-cycle of a project based on the scrum agile model, together with the players involved in each stage.
 The various concepts introduced in the image will be explained in detail in subsequent sections of this document.
 
-image::ScrumInfographic.svg[Scrum infographic]
+image::ScrumInfographic.svg[Scrum info-graphic]
 
 The usual activities within the scrum agile method are as follows:
 
