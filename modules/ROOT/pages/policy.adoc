@@ -1,0 +1,97 @@
+= Barcelona City Council Agile Policy
+:experimental:
+:icons: font
+:page-partial:
+:source-highlighter: highlightjs
+
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+
+include::{partialsdir}/README.adoc[tag=metadata]
+
+This section presents the general principles and guidelines of the Barcelona City Council Agile Policy, which have been drawn up according to the Barcelona City Council digital service standards within the framework provided by the Digital Transformation Plan for Barcelona City Council.
+The most important targets with regard to agile methodologies are the following:
+
+* *PLACE GREATER EMPHASIS ON THE END USER:*
+
+** Give decision-making power to the end user.
+** Be more flexible and deliver greater value.
+
+* *TRANSFORM THE ORGANISATIONAL CULTURE:*
+
+** Place emphasis on collaboration and transparency.
+** Focus the approach more towards value by maintaining control of developments.
+
+* *SHORTEN DEVELOPMENT TIMES:*
+
+** Simultaneously improve technical quality.
+** Reliably deliver more often in order to bring forward the return on investment.
+
+* *IMPLEMENT CONTINUOUS IMPROVEMENT:*
+
+** Systemise continuous improvement based on short review and adaptation cycles.
+** Provide the organisation with active agents for systematic improvement and teams.
+
+The implementation of these principles and guidelines will be carried out through the deployment of agile digital transformation projects by the City Council, mainly managed by IMI.
+These projects will allow resources to be dedicated, infrastructures created and skills acquisition to carry out these transformations.
+In this way, the management of the change caused by the application of these practices within the City Council will be carried out in an iterative way through concrete projects.
+Some projects and their extensions (for example, Decidim.Barcelona) already largely meet the guidelines indicated here, others will achieve them through a more progressive implementation process.
+
+= General Principles and Guidelines of the Barcelona City Council Agile Policy
+
+As stated in the document entitled “Guidelines for the Provision of Agile Digital Services by Barcelona City Council”, the general principles in agile development within departments of the City Council are as follows:
+
+[upperalpha]
+. *INTERDISCIPLINARY COLLABORATION* -
+Multidisciplinary teams are created with people from various fields or working environments in which every member is fully involved and which include the roles and specialities needed to develop applications, services and processes.
+Only one or two people are directly responsible, but team success is the equal responsibility of each team member.
+
+. *SELF-ORGANISED TEAMS* -
+Teams that organise themselves autonomously and flexibly can create new approaches and independently adapt to new challenges in their environment.
+As a result, the roles and responsibilities within these teams will have a certain level of flexibility and fluidity based on the experience, skills and knowledge of the people making up the team in question, as well as on the needs of the specific project.
+
+. *COMMUNICATION* -
+It is necessary to put in place a communication plan that takes into account the need for transparency and responsibilities of the agents involved.
+The key service users and municipal processes must be identified, as well as the players involved in the technical issues.
+All these will be the recipients of the communication actions that must be undertaken as frequently as necessary based on the targets and needs of each project.
+Face-to-face conversations will take priority over other channels of communication.
+
+. *TRANSPARENCY* -
+The project status, priorities, risks, problems and potential “impediments” should be openly and transparently shared with the key players in order to tackle the challenges swiftly.
+This can be done via direct communication but also by using tools adapted to the agile methodology, such as Kanban boards.
+
+. *ONGOING IMPROVEMENT* -
+Collaborative working practices will be established in order to foster a culture of learning and continuous improvement, both in the service provided and in the team members.
+
+. *RAPID FEEDBACK* -
+The team will endeavour to build the shortest possible iterations.
+Team efforts will be undertaken in such a way as to facilitate rapid feedback and incorporate that feedback into the project backlog.
+
+. *ACCEPTANCE OF CHANGE* -
+It is understood that plans and projects will evolve and change during the time a service is provided.
+Analysis and planning practices will be established to reflect that fact.
+
+. *ITERATIVE THINKING* -
+The activities of analysis, design, planning and development will adopt an iterative approach in short cycles so as to enable feedback and priorities to be changed according to needs.
+
+. *RAPID DEPLOYMENT, FREQUENT DEPLOYMENT* -
+Emphasis should be placed on providing value to the end users as quickly as possible, reducing the time needed to produce applications and receiving feedback from users as quickly as possible.
+Priority will be placed on the identified minimum viable product capable of meeting the priority needs of the users, and subsequent deliveries will be undertaken according to that approach.
+
+. *INTEREST IN PROVIDING VALUE TO USERS* -
+Priority must be given to the needs of users.
+User needs stand above any other need, including those of the key players.
+Whenever a conflict of needs arises between groups, the existence of clear priorities must be guaranteed.
+Diversity within teams will be encouraged in order to foster inclusive designs.
+
+. *QUALITY* -
+Quality not only refers to technical quality but also to quality of service.
+Quality is present in each step of the process, and every member of the team has a responsibility to ensure that the service is of the highest quality.
+
+
+. *TRACKING PROGRESS* -
+Delivery of executable software is the main measurement of progress.
+Other measurements should also be applied that reflect the value provided to users and the business in order to ensure that real needs are met and real value is provided.
+
+These principles and guidelines will be applied to ICT projects and services via the practices and measures set out in the following section.
