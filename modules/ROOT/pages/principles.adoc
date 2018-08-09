@@ -1,0 +1,143 @@
+= General Principles of Agile Development
+
+== Concepts and Definitions
+
+The development of agile software is a philosophy and agile is an umbrella term for a series of methods and approaches that share certain common characteristics.
+Several agile methods exist, of which the main ones are _scrum and extreme programming (XP)._
+
+Generally-speaking, they are a set of methods used in the field of software development and maintenance based on iterative short-term processes (typically lasting from one to four weeks) that lead to the initial delivery of a partial but operational product and various consecutive versions with increasingly improved performance.
+Through constant iterations, these methodologies seek to provide value from the very beginning of a project, as well as undertake ongoing assessment of the product.
+Their goal is to introduce improvements and ongoing product evolution until a final result of excellent quality is achieved that fully responds to all user requirements.
+
+Such iterative strategies allow risks to be minimised because each iteration is viewed as a miniature project and includes all the necessary stages: planning, requirement analysis, design, coding, user testing and documentation.
+Hence, any implementation problems, adaptation to requirements or risks in a project come to light earlier and the corrective measures are less costly and more immediate than in a traditional development project (in which they tend to come to light during the final stage, following months of evolution).
+
+Furthermore, agile methodologies are focused on user satisfaction because they require active user participation in the project during both conceptualisation and development (via validation of the partial deliveries).
+This ensures that the final product responds to the needs of the user and meets user expectations.
+
+All this is based on the so-called “_Manifesto for_ _the Agile Development of Software_”, of 2001:
+
+.Manifiesto _ÁGIL_
+TIP: *We are uncovering better ways of developing software by doing it and helping others do it.*
+*Through this work, we have come to value:*
+*Individuals and interactions above processes and tools. Working software over comprehensive documentation. Customer collaboration over contract negotiation. Responding to change over following a plan.*
+*That is, while there is value in the items on the right, we value the items on the left more.*
+_http://agilemanifesto.org/iso/ca/manifesto.html_
+
+The Agile Manifesto proposes 12 principles that should be followed by agile methodologies:
+
+. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+
+. We accept that requirements change, even late in development.
+Agile processes harness change for the customer’s competitive advantage.
+
+. We deliver working software frequently, from a couple of weeks to a couple of months, with a preference for the shorter timescale.
+
+. Business people and developers must work together daily throughout the project.
+
+. Projects are built around motivated individuals.
+Give them the environment and support they need, and trust them to get the job done.
+
+. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+
+. Working software is the primary measure of progress.
+
+. Agile processes promote sustainable development.
+The sponsors, developers and users should be able to maintain a constant pace indefinitely.
+
+. Continuous attention to technical excellence and good design enhances agility.
+. Simplicity, or the art of maximising the amount of work not done, is essential.
+. The best architectures, requirements and designs emerge from self-organising teams.
+. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behaviour accordingly.
+
+_http://agilemanifesto.org/iso/ca/priciples.html_
+
+The key to the Agile model is that an overall project is divided into a series of short-term development cycles (broadly referred to as “iterations” or – in scrum terminology – “sprints”) each of which is approximately two to four weeks in length.
+For each iteration, the development team essentially carries out the same activities as it would if using the cascade model (i.e. planning, design, coding, testing and rollout) but according to agile working practices.
+
+The image below shows an example of the life-cycle of a project based on the scrum agile model, together with the players involved in each stage.
+The various concepts introduced in the image will be explained in detail in subsequent sections of this document.
+
+image::ScrumInfographic.svg[Scrum infographic]
+
+The usual activities within the scrum agile method are as follows:
+
+. Discovery
+. _Backlog_
+. Iterations/sprints
+
+The *discovery* activity defines the minimum viable product (MVP) that must be produced.
+This is based on workshops and interviews that produce a *“product vision”,* which becomes the basic definition of the system to be developed.
+
+*The product backlog* is a prioritised list of all the estimated individual elements for completing the overall project; in other words, the distinguishable (programmable) elements that make up the product vision.
+
+For each sprint (a development cycle of 2-4 weeks), the development team prepares a sprint backlog.
+This document states which
+
+development items in the product backlog will be implemented during the current sprint (starting with the items of highest priority).
+In other words, it is a “to-do” list for the current sprint.
+
+The development team will design, program and test each one of the development items listed in the sprint backlog during the 2-4 weeks of the sprint.
+It should be noted that the team typically meets once a day to ensure that all the activities in the sprint move forward according to plan.
+
+The result of each sprint should be a potentially shippable product increment, in which an increase in value or functionality can be seen when compared with the previous sprint.
+
+Together, the three activities defined above form the *Agile cycle*, which is repeated until the result desired by the customer is obtained (or the budget/time allocated to the project expires).
+
+== Benefits
+
+From among the benefits brought by working with an agile methodology, the following should be highlighted:
+
+* *Focus on value and customer satisfaction* via the rapid and continuous delivery of useful software.
+This provides the customer with an ongoing vision of the product and its evolution until the final product is obtained.
+
+* *Focus on the users.*
+Greater emphasis is placed on people and interactions than on the process and tools.
+Customers, developers and testers interact constantly to provide visions, assessments and improvements for the product.
+
+* *Earlier deliveries.*
+The created software is delivered frequently (in weeks rather than months) via the various sprints, which means there is an evolutionary increment in each new delivery over the previous one.
+
+* *Foreseeable costs and planning.*
+The cost is foreseeable and limited to the amount of work that the team can undertake because each review of the backlog calculates the development costs for the work packages included.
+
+* *Commitment from the stakeholders.*
+An agile method requires close and daily cooperation with the users, both to correctly meet the project requirements and to verify the increase in product value from each sprint.
+
+* *Transparency.*
+Progress on the project is the result of the entire process itself, meaning that the various players involved can see the progress at any given time.
+Furthermore, communication between those players is more direct (“face-to-face”) and constant throughout the project.
+
+* *Increased quality.*
+An agile method produces a constant focus on technical excellence and quality design.
+The use of specific tools and techniques, such as continuous integration or TDD (test-driven development), provides on-going quality improvement in the product.
+
+* *Rapid reaction to change.*
+An iterative cycle allows for regular adaptation to changing circumstances, such as the identification of potential changes or improvements to the product before finishing it.
+This process also allows late changes to the requirements to be accepted.
+
+TIP: *“Development productivity was increased, the transparency of development activities was enhanced and the relative proportion of administrative work was reduced (by up to 25%).*
+*The increased efficacy allows the public authority to develop more digital services on a limited budget”.*
+_Finnish agency responsible for driving licences, quoted in Nuottila et al. (2013), about an Agile project in the Transport Department._
+
+== Implications and Challenges
+
+Without going into detail on the impacts of agile methodologies on organisations and their differences from traditional methodologies, such as the cascade method, the implementation of the former implies a major change in project management, the way the customer’s staff (in this case, the public authorities) get involved and the way in which services and project results are contracted and delivered by the supplier.
+
+As regards the organisation of projects, it should be noted that the results delivered when using this methodology are not necessarily the final results or even those that were defined at the start of the project.
+In contrast, the software resulting from the development process consists of versions stemming from an iterative process based on the needs of users and their response to the initial versions of the product.
+
+For the customer (user), Agile places emphasis on collaboration.
+During the delivery life-cycle or iteration, both parties (customer and supplier) work together during each stage to achieve the objectives.
+Collaborative effort will be greater during the design stage, when the parties work together to determine the functional and non-functional requirements (such as the user experience, UX) of the iteration or deliverable result.
+Agile contracting therefore requires much more intense dedication (people and time) from the customer when compared with the traditional cascade contracting method.
+
+In terms of the contracting process (beyond the impacts mentioned above), the customer does not contract a definitive and defined solution (from the start) but rather contracts the development of individual aspects of a solution that evolve over time and are incrementally incorporated to meet identified needs (user stories) and the general objectives of the customer.
+This usually means that the manner in which technology services are contracted when using an agile methodology is usually based on time and materials (contracting based on the time and resources to be used), which may vary according to the characteristics of the project.
+
+Furthermore, the delivery and acceptance criteria for results must be more flexible due to the changes in planning stemming from changes to the functional and technical specifications that may result from the feedback provided by users on each iteration or development cycle.
+
+Hence, we must work on the challenges posed by this development methodology if we wish to reap its benefits.
+The ongoing development of skills within the customer and supplier teams, their involvement in the project and the management of this personnel are key aspects of this methodology.
+Defining the scope and size of the projects and development teams are other criteria to be considered when applying this methodology.
+In large organisations with complex IT systems, where traditional methodologies are the mainstay, one of the most significant challenges is how to integrate and combine new agile practices into the environments and processes that already exist.
