@@ -38,7 +38,7 @@ These projects will allow resources to be dedicated, infrastructures created and
 In this way, the management of the change caused by the application of these practices within the City Council will be carried out in an iterative way through concrete projects.
 Some projects and their extensions (for example, Decidim.Barcelona) already largely meet the guidelines indicated here, others will achieve them through a more progressive implementation process.
 
-= General Principles and Guidelines of the Barcelona City Council Agile Policy
+== General Principles and Guidelines of the Barcelona City Council Agile Policy
 
 As stated in the document entitled “Guidelines for the Provision of Agile Digital Services by Barcelona City Council”, the general principles in agile development within departments of the City Council are as follows:
 
