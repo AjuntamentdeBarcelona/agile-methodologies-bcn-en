@@ -20,7 +20,7 @@ In addition, this methodology converts estimation and planning efforts into an o
 More generally-speaking, various autho-rities are in the process of implementing these methodologies, such as those in the United Kingdomo (_https://www.gov.uk/service-manual/agile-delivery_), New York (_http://playbook.cityofnewyork.us/_) and San Francisco (_http://digitalservices.sfgov.org_), for example, at the Human Services Agency and the Department of Community Housing and Development).
 These initiatives base the delivery of innovative digital services that are cheaper and more user-focused on agile methodologies from the outset.
 
-= Important Considerations
+== Important Considerations
 
 As stated previously in the section entitled “General Principles of Agile Development”, agile methods have various consequences and pose specific implementation challenges in the development of digital services for public administration.
 
