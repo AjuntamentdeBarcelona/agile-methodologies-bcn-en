@@ -41,6 +41,6 @@ include::implementation.adoc[]
 
 include::references.adoc[]
 
-:allow-uri-read:
+//:allow-uri-read:
 
-include::https://raw.githubusercontent.com/AjuntamentdeBarcelona/guides-glossary/master/modules/ROOT/pages/glossary.adoc[]
+//include::https://raw.githubusercontent.com/AjuntamentdeBarcelona/guides-glossary/master/modules/ROOT/pages/glossary.adoc[]
