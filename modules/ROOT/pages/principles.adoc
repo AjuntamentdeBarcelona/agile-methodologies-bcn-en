@@ -68,7 +68,7 @@ For each iteration, the development team essentially carries out the same activi
 The image below shows an example of the life-cycle of a project based on the scrum agile model, together with the players involved in each stage.
 The various concepts introduced in the image will be explained in detail in subsequent sections of this document.
 
-image::ScrumInfographic.svg[Scrum info-graphic]
+image::ScrumInfographic.svg[Scrum info-graphic, width=2835]
 
 The usual activities within the scrum agile method are as follows:
 
