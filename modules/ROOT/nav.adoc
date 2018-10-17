@@ -4,4 +4,4 @@
 * xref:policy.adoc[Barcelona City Council Agile Policy]
 * xref:implementation.adoc[Implementation of the Agile Policy to ICT projects and services]
 * xref:references.adoc[Further information. References]
-* xref:glossary:ROOT:glossary.adoc[Glossary]
+// * xref:glossary:ROOT:glossary.adoc[Glossary]
