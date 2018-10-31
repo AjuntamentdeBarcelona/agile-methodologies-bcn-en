@@ -45,7 +45,7 @@
 // MANDATORY. Comma-separated list of terms to help classifying and searching
 // the document. In web format, this terms are integrated as SEO enabling
 // metadata. In PDF format, they are shown near the other metadata.
-:keywords: ethical digital standards, technology rights, barcelona, city council, digital services
+:keywords: ethical digital standards, technology rights, barcelona, city council, agile methodologies, scrum, imi
 //
 // MANDATORY. Document's history.
 :_dochistory:
