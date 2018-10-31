@@ -40,7 +40,7 @@
 :revdate: {docdate}
 //
 // MANDATORY. Short summary of the contents of the document. 4 lines max.
-:_summary: A set of criteria for the development and management of digital services for citizens, in an agile, open and user-centered way.
+:_summary: Principles and practices for the agile transformation of Barcelona City Council in the delivery of digital services.
 //
 // MANDATORY. Comma-separated list of terms to help classifying and searching
 // the document. In web format, this terms are integrated as SEO enabling
