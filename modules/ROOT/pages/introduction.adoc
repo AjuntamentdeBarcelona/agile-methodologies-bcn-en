@@ -1,4 +1,8 @@
 = Introduction and Context
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
 
 This is document supports the Barcelona City Council Technology Code of Practice, and provides a practical explanation of the Agile transformation concept.
 It expands on the principles guiding the new leadership at the Municipal Institute of Information Technology (IMI) in terms of technology and innovation: interoperability, agility, reuse, ethics, and open knowledge and technology.

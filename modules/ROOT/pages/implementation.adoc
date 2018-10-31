@@ -1,4 +1,8 @@
 = Implementation of the Agile Policy to ICT Projects and Services
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
 
 In order to apply the guidelines described in the previous section, the IMI has developed an agile methodology based on scrum and adapted this to suit its role as ICT Manager for Barcelona City Council.
 
