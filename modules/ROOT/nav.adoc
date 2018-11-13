@@ -1,7 +1,16 @@
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+
+.$$MAIN
 * xref:introduction.adoc[Introduction and context]
 * xref:principles.adoc[General principles of Agile development]
 * xref:public-admin.adoc[Agile and Public Administration]
 * xref:policy.adoc[Barcelona City Council Agile Policy]
 * xref:implementation.adoc[Implementation of the Agile Policy to ICT projects and services]
 * xref:references.adoc[Further information. References]
-// * xref:glossary:ROOT:glossary.adoc[Glossary]
+
+.$$BOTTOM
+* xref:{lang}/glossary:ROOT:glossary.adoc[Guides glossary]
+* link:{attachmentsdir}/barcelona_agile_methodologies_{revnumber}.{lang}.pdf[Download PDF]
