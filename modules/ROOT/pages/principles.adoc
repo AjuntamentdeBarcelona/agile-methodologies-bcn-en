@@ -19,14 +19,20 @@ Hence, any implementation problems, adaptation to requirements or risks in a pro
 Furthermore, agile methodologies are focused on user satisfaction because they require active user participation in the project during both conceptualisation and development (via validation of the partial deliveries).
 This ensures that the final product responds to the needs of the user and meets user expectations.
 
-All this is based on the so-called “_Manifesto for_ _the Agile Development of Software_”, of 2001:
+All this is based on the so-called “_Manifesto for the Agile Development of Software_”, of 2001:
 
-.Manifiesto _ÁGIL_
-TIP: *We are uncovering better ways of developing software by doing it and helping others do it.*
-*Through this work, we have come to value:*
-*Individuals and interactions above processes and tools. Working software over comprehensive documentation. Customer collaboration over contract negotiation. Responding to change over following a plan.*
-*That is, while there is value in the items on the right, we value the items on the left more.*
-_http://agilemanifesto.org/iso/ca/manifesto.html_
+[quote, , "Agile Manifesto, http://agilemanifesto.org/iso/ca/manifesto.html"]
+____
+We are uncovering better ways of developing software by doing it and helping others do it.
+Through this work, we have come to value:
+
+* Individuals and interactions above processes and tools.
+* Working software over comprehensive documentation.
+* Customer collaboration over contract negotiation.
+* Responding to change over following a plan.
+
+That is, while there is value in the items on the right, we value the items on the left more.
+____
 
 The Agile Manifesto proposes 12 principles that should be followed by agile methodologies:
 
@@ -120,9 +126,9 @@ The use of specific tools and techniques, such as continuous integration or TDD 
 An iterative cycle allows for regular adaptation to changing circumstances, such as the identification of potential changes or improvements to the product before finishing it.
 This process also allows late changes to the requirements to be accepted.
 
-TIP: *“Development productivity was increased, the transparency of development activities was enhanced and the relative proportion of administrative work was reduced (by up to 25%).*
-*The increased efficacy allows the public authority to develop more digital services on a limited budget”.*
-_Finnish agency responsible for driving licences, quoted in Nuottila et al. (2013), about an Agile project in the Transport Department._
+[quote, Finnish agency responsible for driving licences, "Quoted in Nuottila et al. (2013), about an Agile project in the Transport Department"]
+Development productivity was increased, the transparency of development activities was enhanced and the relative proportion of administrative work was reduced (by up to 25%).
+The increased efficacy allows the public authority to develop more digital services on a limited budget.
 
 == Implications and Challenges
 

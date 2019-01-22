@@ -38,7 +38,7 @@ The main characteristics foreseen for this methodology are described according t
 
 The usual events (activities and milestones) for the Scrum@IMI methodology include the following steps:
 
-[cols=",",options="header",]
+[cols="25,75", options="header"]
 |===
 a| *Event* | *Goals*
 a| *Sprint*
@@ -86,6 +86,7 @@ The proxy product owner (PPO) is not a standard scrum role but is common in situ
 In the context of the City Council and the IMI, the IMI will often take on this role.
 
 *DEVELOPMENT TEAM (SUPPLIER)*
+
 Made up by a group of three members (preferably with multidisciplinary profiles), the development team carries out all the necessary activities related to project development.
 Its main objective is to achieve ongoing improvement.
 To do so, the team interacts with all the necessary IMI roles, of which the PO and PPO will be the main interlocutors regarding the work needing to be done, and the scrum master will act as methodological and organisational guide within the IMI.
