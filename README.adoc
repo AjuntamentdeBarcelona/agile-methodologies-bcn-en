@@ -80,7 +80,7 @@ endif::[]
 [abstract]
 {_summary}
 
-This document is part of the https://ajuntament.barcelona.cat/digital/en/digital-transformation/technology-for-a-better-government/transformation-with-agile-methodology[Ethical Digital Standards] of the Barcelona City Council.
+This document is part of the https://www.barcelona.cat/digitalstandards/[Ethical Digital Standards] of the Barcelona City Council.
 
 == Metadata
 
