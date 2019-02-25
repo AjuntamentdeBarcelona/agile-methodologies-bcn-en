@@ -87,7 +87,7 @@ In the context of the City Council and the IMI, the IMI will often take on this 
 
 *DEVELOPMENT TEAM (SUPPLIER)*
 
-Made up by a group of three members (preferably with multidisciplinary profiles), the development team carries out all the necessary activities related to project development.
+Made up by a group of three to nine members (preferably with multidisciplinary profiles), the development team carries out all the necessary activities related to project development.
 Its main objective is to achieve ongoing improvement.
 To do so, the team interacts with all the necessary IMI roles, of which the PO and PPO will be the main interlocutors regarding the work needing to be done, and the scrum master will act as methodological and organisational guide within the IMI.
 
