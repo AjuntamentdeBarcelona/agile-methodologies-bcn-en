@@ -28,7 +28,7 @@ These initiatives base the delivery of innovative digital services that are chea
 
 As stated previously in the section entitled “General Principles of Agile Development”, agile methods have various consequences and pose specific implementation challenges in the development of digital services for public administration.
 
-As regards the organisation of projects, all the agents involved in the project should agree on which method has to be used, the definition and allocation of duties or roles, especially within the “customer” department or unit (usually the project owner), the entity managing the contract (at Barcelona City Council, this will usually be the IMI) and the supplier, and how these roles should be undertaken.
+As regards the organisation of projects, all the agents involved in the project should agree on which method has to be used, the definition and allocation of duties or roles, especially within the “customer” department or unit (usually the product owner), the entity managing the contract (at Barcelona City Council, this will usually be the IMI) and the supplier, and how these roles should be undertaken.
 This choice of methodology and definition of roles is more or less difficult depending on the organisational complexity of the public authority in question and the integration of any new services with existing systems or platforms and other ongoing projects.
 Public authorities have many systems and services already in place, meaning that co-existence with traditional projects can be complicated.
 
