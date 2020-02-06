@@ -21,6 +21,10 @@ In this case, it may be advisable to contract traditional projects in parallel.
 The projects defined as agile will follow the agile development methodology for IMI applications, called Scrum@IMI.
 This is based on the scrum working framework and takes engineering practices from other models into account, such as DevOps.
 
+Since 2017, the IMI team has been working on the definition of the Scrum@IMI framework that has been evolved based on lessons learnt during the execution of a vast array of projects. The latest version of the public distribution of Scrum@IMI is published in the Documentation Repository of the IMI website, so any interested party or vendors bidding for a public contract can have a preview of the framework including regulatory and compliance requirements that will affect any project developed using this methodology.
+
+You can download the latest public version of Scrum@IMI following this link: https://ajuntament.barcelona.cat/imi/sites/default/files/marc_de_treball_scrumimi_per_proveidors.pdf[Marc de treball Scrum@IMI per proveidors]
+
 This methodology will be supported by the use of an ALM platform (Application Lifecycle Management) with tools that include the following features, among others:
 
 * Development planning (releases, sprints, work packages, defects, etc.).
